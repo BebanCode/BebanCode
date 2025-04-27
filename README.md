@@ -1,12 +1,10 @@
 <p align="center">
   <img src="https://ik.imagekit.io/bebanserver/img-09.png?updatedAt=1733584458909"/>
-  <a href="https://discord.com/users/924513396928434227" target="_blank"> <img src="https://lanyard-profile-readme.vercel.app/api/924513396928434227?theme=gray&bg=2b2d31&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..."/> </a>
   </p>
-<img alt="Night Coding" src="https://static-00.iconduck.com/assets.00/hot-beverage-emoji-877x1024-87ygn9ko.png" width='40' align="left"/><h2>Hey there! I'm Juna</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Juna -->
+# Hey there! I'm Juna
 
-### 👨🏻‍💻 &nbsp;About Me
+### 😁 About Me
 
 💡 &nbsp;I'm one of the main developer from [Beban Studio](https://github.com/Beban-Studio/).\
 🎓 &nbsp;I'm still a beginner to coding world, I'm currently exploring Javascript and Python .\
@@ -26,14 +24,9 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<a href="https://github.com/BebanCode">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BebanCode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BebanCode&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 <p align="center"> 
+  <a href="https://discord.com/users/924513396928434227" target="_blank"> <img src="https://discord.c99.nl/widget/theme-3/924513396928434227.png"/> </a>
+</p>
+<p align="center">
   <a href="https://discord.gg/9eCgpGuZAa" target="_blank"> <img src="https://discordapp.com/api/guilds/1215235509958479894/widget.png?style=banner2"/> </a>
-  </p>
+</p>
